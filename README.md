@@ -1,9 +1,9 @@
 ## Bem vindo! Eu sou o Douglas😎
 
 
-- 🤠 Cursando Sistemas 2/3
-- 🎈Segundo Ano do Ensino Médio
-- 🎓Futuro Desenvolvedor de Sistemas
+- 🤠 Técnico em Análise e Desenvolvimento de Sistemas
+- 🎈 Rumo a Faculdade de Ciência da Computação
+- 🎓Futuro Cientista de Dados
 
 <div align="center">
   <a href="https://github.com/DouglasWillamysEs">
