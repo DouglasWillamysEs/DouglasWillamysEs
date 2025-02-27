@@ -2,8 +2,8 @@
 
 
 - 🤠 Técnico em Análise e Desenvolvimento de Sistemas
-- 🎈 Rumo a Faculdade de Ciência da Computação
-- 🎓Futuro Cientista de Dados
+- 🎈 Cursando Ciência da Computação
+- 🎓 Futuro Cientista de Dados
 
 <div align="center">
   <a href="https://github.com/DouglasWillamysEs">
